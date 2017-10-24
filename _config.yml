@@ -1,14 +1,5 @@
-#
-# Awesome App Landing Page Config
-#
-
-# Be sure all REQUIRED fields are filled out!
-
-#
-# General App Info
-#
 app:
-  name: English Urdu Dictionary Pro # REQUIRED - Enter your app name
+  name: Dictionary Pro # REQUIRED - Enter your app name
   ios_id:  # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: com.fsapps.english.urdu.dictionary.translator # Optional - Enter Android app id like: com.example.app
 
@@ -22,11 +13,11 @@ app:
   # e.g. images/app-screen-640x1136.png
   # 640x1136px
 
-#
+ #
 # Marketing
 #
 marketing_header: Search English Urdu Words # Optional
-marketing_desc: Huge English to Urdu , Urdu to English, Urdu to Urdu and Roman Offline Dictionary with Free Sentence Translators Apps.
+marketing_desc: English to Urdu - "The app is it find meanings of English words in Urdu". Urdu to English - "In addition feature the app is also allowing you to find meanings of Urdu words in English". Roman Dictionary – "New Feature is to search word meaning in native English like (Kasy ho, Pyar, Hum, tum, boht. etc)". Urdu to Urdu Offline Dictionary – "New Urdu to Urdu Dictionary (Lughat) is added contain 200,000 words with detail meanings and information". Translator App – "You can translate whole paragraph to any language that you want using this Translate app". English Urdu Dictionary – "New Urdu English Online Dictionary is added, with huge online Database" # Optional
 
 #
 # Social Links
@@ -34,7 +25,7 @@ marketing_desc: Huge English to Urdu , Urdu to English, Urdu to Urdu and Roman O
 # Includes an icon for each username you enter
 #
 social-links:
- github: 
+  github: 
   facebook: dictionaryenglishurdu/
   twitter:
   pinterest:
@@ -63,7 +54,7 @@ device: iphone-se-silver-vertical # REQUIRED
 #
 # Theme Settings
 #
-background_color: "#989898" # Optional
+background_color: "#527f94" # Optional
 background_image: /images/backgrounds/58-usersthink-stock-image-web.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
 text_color: white # Optional
 link_color: # Optional
